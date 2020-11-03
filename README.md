@@ -4,4 +4,11 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 
 
 ## This is a heading 2
-### This is a heading 3
+### Lets talk about Growth Mindset
+
+How can I keepy myself in a growth mindset?
+
+- Self-discovery
+- Be mindul of my thinking
+
+

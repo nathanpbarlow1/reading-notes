@@ -4,7 +4,7 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 
 
 ## Table of Contents for reading
-- [Class 1: Growth Mindset](https://growthmindset.md/).
+- [Class 1: Growth Mindset](https://growthmindset.org/).
 
 ### Lets talk about Growth Mindset
 

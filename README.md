@@ -8,9 +8,9 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 
 ### How will I keep myself in a growth mindset?
 
-:+1 Start the day by reading for at least 15 minutes
-:+1 Surround myself with like-minded friends
-:+1 Reflect on my accomplishments, no feat. is too small!
+- [ ] Start the day by reading for at least 15 minutes
+- [ ] Surround myself with like-minded friends
+- [ ] Reflect on my accomplishments, no feat. is too small!
 
 ### Growth Mindset, explained in my own words:
 

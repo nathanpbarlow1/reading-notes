@@ -6,7 +6,7 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 
 ### Lets talk about Growth Mindset
 
->“You have three bad quarters, you’ve thrown four interceptions, you own that,” he said. “But the next seven minutes are going to be based on what you do, not what you did.” - Russell Wilson, QB - Seattle Seahawks
+>“*You have three bad quarters, you’ve thrown four interceptions, you own that,” he said. “But the next seven minutes are going to be based on what you do, not what you did.” - Russell Wilson, QB - Seattle Seahawks*
 
 ### How will I keep myself in a growth mindset?
 

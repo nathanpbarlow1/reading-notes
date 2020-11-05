@@ -6,6 +6,8 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 
 ### Lets talk about Growth Mindset
 
+>“You have three bad quarters, you’ve thrown four interceptions, you own that,” he said. “But the next seven minutes are going to be based on what you do, not what you did.”
+
 ### How will I keep myself in a growth mindset?
 
 1. Start the day by reading for at least 15 minutes

@@ -37,7 +37,7 @@ One example is Outlook - software that's primary responsibility is creating/send
 
   Ex : Netbeans IDE, gEdit.
 
-  Reference: https://www.geeksforgeeks.org/editors-types-system-programming/
+  ~Reference: [Geeks for Geeks](https://www.geeksforgeeks.org/editors-types-system-programming/)
 
 #### Other Notes
 - Choosing a text editor is a personal choice, there isn't a wrong answer! Some unique features are available per editor, but the basics are the same.

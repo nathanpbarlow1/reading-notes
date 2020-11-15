@@ -1,15 +1,13 @@
-###Choosing a Text Editor
+# Lets talk about Choosing a Text Editor
 
-### Lets talk about Choosing a Text Editor
-
-## Comparison of “basic” text editor vs coding-specific text editor
+### Comparison of “basic” text editor vs coding-specific text editor
 
 - I work on a Mac for this dev course, and it comes pre-installed with "Text edit." These basic text editors will work for many tasks you're looking to accomplish, but they are the "barest bare bones text editors you'll encounter." 
 - https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf
 - Using a coding-specific text editor will save you time, and will make mundance tasks more enjoyable.
 - Some coding specific text editors: Notepad ++, TextWrangler/BB Edit, Visual Studio Code, Atom, Brackets, Sublime Text. 
 
-## Comparison of “basic” text editor vs IDE
+### Comparison of “basic” text editor vs IDE
 While you should have a good understanding of what a "basic" text editor is, an IDE (Integrated Development Environment) is a compilation of different software, i.e. a text editor plus a file manager, compiler, and a debugger all in one package. 
 
 One example is Outlook - software that's primary responsibility is creating/sending/receiving email but it also allows you to perform other tasks like calendaring or creating tasks. 
@@ -29,13 +27,13 @@ Ex : Netbeans IDE, gEdit.
 
 Reference: https://www.geeksforgeeks.org/editors-types-system-programming/
 
-# Other Notes
+#### Other Notes
 - Choosing a text editor is a personal choice, there isn't a wrong answer! Some unique features are available per editor, but the basics are the same.
 - Some of the basics you should look for in a text editor: code completion, syntax
 highlighting, a nice variety of themes (to reduce eye strain and fatigue and the ability to choose from a healthy selection of extensions available when you need them.
 - The text-editor that I've used thus far is Brackets (made by Adobe) that supports HTML, CSS and JavaScript. 
 
-#Defining the basics: 
+#### Defining the basics: 
 - Syntax highlighting: a feature that takes the text you type, and makes it more noticeable by colorizing the text. Attributes are a different color than elements. And elements are a different color than copy. This makes it so much easier when you’re looking for an error and you can’t find it. As well as making your text easier to read.
 - Code completion: allows you to start typing, and the code completion feature will display possible suggestions based on what you originally typed. This saves you time by providing a choice, rather than allowing you to finish typing and possibly encounter typos. Also, some code completion includes the closing of tags when you open them, or the closing of brackets when you open them, or the closing of quotation marks when you open them, thus making sure you’re always writing your code.
 - Themes: allow you to change the color of the background of your text editor, the series of colors in your text, and sometimes themes will affect other aspects of your text editing software as well. Usually, web developers use a dark background and brightly colored text. This combination seems to be easier on the eyes but there are other themes to choose from as well.

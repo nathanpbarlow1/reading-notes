@@ -2,7 +2,7 @@
 
 ### Comparison of “basic” text editor vs coding-specific text editor
 
-I work on a Mac for this dev course, and it comes pre-installed with "Text edit." These basic text editors will work for many tasks you're looking to accomplish, but they are the "barest bare bones text editors you'll encounter." - https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf
+I work on a Mac for this dev course, and it comes pre-installed with "Text edit." These basic text editors will work for many tasks you're looking to accomplish, but they are the "barest bare bones text editors you'll encounter." (https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 Using a coding-specific text editor will also save you time, and will make mundance tasks more enjoyable.
 

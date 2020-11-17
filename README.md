@@ -3,6 +3,7 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 
 ## Table of Contents for reading
 - [Class 1: Growth Mindset](https://growthmindset.org/).
+- [Class 2: Comparison of “basic” text editor vs coding-specific text editor vs IDE](https://github.com/npbarlow1/reading-notes/blob/main/ChoosingATextEditor.md) 
 
 ### Lets talk about Growth Mindset
 

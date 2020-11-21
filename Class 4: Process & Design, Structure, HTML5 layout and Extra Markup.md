@@ -50,8 +50,8 @@ HTML
 	- <div>: this element allows you to group a set of elements together in one block-level box.
 		○ Using an id or class attribute on the <div> element will allow you to create CSS style rules to indicate how much space the <div> element should occupy on the screen and change the appearance of all the elements contained within it.  
 		○ Examples: 
-			§ you might create a <div> element to contain all of the elements for the header of your site (the logo and the navigation.
-			§ Or, you might create a <div> to contain comments from visitors
+			○ you might create a <div> element to contain all of the elements for the header of your site (the logo and the navigation.
+			○ Or, you might create a <div> to contain comments from visitors
 	- <span>
 		○ Acts like an inline equivalent of the <div> element and is used to:
 			1) Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
@@ -60,11 +60,11 @@ HTML
 	- <iframe>
 		○ Like a little window that has been cut into your page--and in that window you can see another page. 
 		○ Example: 
-			§ Embedded Google Maps
+			○ Embedded Google Maps
 		○ <iframe> attributes:
-			§ src: specifies the URL of the page to show in the frame
-			§ height: specifies the heigh of the iframe in pixels. 
-			§ width: specifies to the width of the iframe in pixels
+			○ src: specifies the URL of the page to show in the frame
+			○ height: specifies the heigh of the iframe in pixels. 
+			○ width: specifies to the width of the iframe in pixels
 	- Scrolling: not supported in HTML5, indicates whether the iframe should have scrollbars.
 	- Frameborder:  also not supported in HTML5, indicates whether the iframe should have a border or not. 0 = no, 1 = yes.
 	- Seamless: applied to an iframe where scrollbars are not desired. 
@@ -76,29 +76,29 @@ HTML
 		○ Empty element (does not have a closing tag).
 		○ Most common attributes are name and content attributes, name attribute is the property you are setting, and the value of the content attribute is the value that you want to give this property. 
 		○ Description: used by search engines to understand what the page is about, should be limited to 155 characters. 
-			§ <meta name="description"
+			○ <meta name="description"
 				□ Content="An Essay on Installation Art" />
 		○ Keywords: contains a list of comma-separated words that a user might search on to find the page, this no longer has any noticeable affect on how search e ngines index your site. 
 		○ Robots: indicates whether a search engine should add this page to their search results. 
-			§ "no index" = page should not be added.
-			§ "no follow" = should add but not any pages it’s linked to.
+			○ "no index" = page should not be added.
+			○ "no follow" = should add but not any pages it’s linked to.
 				□ <meta name="robots"
 					® Content="no follow" />
 		○ <meta> element also uses the http-equiv and content attributes in pairs
-			§ Author: defines the author of the page
-			§ Pragma: prevents the browser from caching the page
-			§ Expires: because browsers often cache the content of the page, the expires option can be used to indicate when the page should expire (and no longer be cached). Date must be specified in the format shown: Fri, 04 Apr 2014 23:59:59 GMT"
+			○ Author: defines the author of the page
+			○ Pragma: prevents the browser from caching the page
+			○ Expires: because browsers often cache the content of the page, the expires option can be used to indicate when the page should expire (and no longer be cached). Date must be specified in the format shown: Fri, 04 Apr 2014 23:59:59 GMT"
 		○ Escape characters: <, >, &, ", ',',", X, etc. (page 194)
 		○ <aside>
-			§ Inside <article>
+			- Inside <article>
 				□ Should contain info that is related to the article but not essential to its meaning.
 				□ Example: a pullquote or glossary might be considered as an aside to the article it relates to.
-			§ Outside <article>
+			- Outside <article>
 				□ Acts as a container for content that is related to the entire page
 				□ Example: it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
-		§ <figure>
-			§ Used to contain any content that is referenced from the main flow of an article (not just images)
-			§ Examples:
+		○ <figure>
+			○ Used to contain any content that is referenced from the main flow of an article (not just images)
+			○ Examples:
 				□ Images
 				□ Videos
 				□ Graphs

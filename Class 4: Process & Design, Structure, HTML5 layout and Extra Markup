@@ -1,11 +1,11 @@
-#Class 4 Notes: Process & Design, Structure, HTML5 layout and Extra Markup.
+# Class 4 Notes: Process & Design, Structure, HTML5 layout and Extra Markup.
 
 Elements = HTML code made up of characters that live inside angled brackets. Tells the browser something about the information that sits between its opening and closing tags.
 Tags =
 	- part of elements, an opening tag and a closing tag, i.e. <p> </p>
 	- They act like containers
 
-##Attributes = 
+## Attributes = 
 	- provides additional info about the contents of an element.
 	- They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign
 	- <p lang="en-us">Paragraph in English</p>
@@ -24,7 +24,7 @@ HTML
 	- Hypertext refers to the fact that HTML allows visitors to move from one page to another quickly and easily.
 	- A markup language allows you to annotate text, and these annotation provide additional meaning to the contents of a document.
 
-##The Evolution of HTML
+## The Evolution of HTML
 	- I've been aware of some of the history of HTML, but I didn't know much about XHTML 1.0. 
 	- XHTML 1.0 was release in 2000. XML was published in 1988 and it's purpose was to allow people to write new markup languages. Since HTML was the most widely used markup language around, it was decided that HTML 4 should be reformulated to follow the rules of XML and it was renamed XHTML. 
 	- Some new, more strict rules were put into place, including:
@@ -32,7 +32,7 @@ HTML
 	- There were 3 different versions of XHTML (Strict, transitional, and Frameset)
 	- HTML5 is actually WIP.
 	
-###Other Definitions:
+### Other Definitions:
 	- DOCTYPES: this is a declaration  to tell a browser which version of HTML the page is using <!DOCTYPE html>
 	- Comments in HTML: <!-- --> this code allows for comments, which will not be visible to the browser. Helpful for someone who hasn't looked at the code before, or even yourself if it's been a long time since creation. 
 	- ID Attribute: every HTML element can carry an attribute. Used to uniquely identify that element from other elements on the page. It's important that no two elements on the same page have the same value for their id attributes (otherwise the value is no longer unique).

@@ -6,6 +6,7 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 - [Class 2: Comparison of “basic” text editor vs coding-specific text editor vs IDE](https://github.com/npbarlow1/reading-notes/blob/main/ChoosingATextEditor.md)
 - [Class 3: Git Intro](https://github.com/npbarlow1/reading-notes/blob/main/GitIntro.md)
 - [Class 4: Process & Design, Structure, HTML5 layout and Extra Markup](https://github.com/npbarlow1/reading-notes/blob/main/Class%204:%20Process%20%26%20Design%2C%20Structure%2C%20HTML5%20layout%20and%20Extra%20Markup.md)
+- [Class 5: Introduction to CSS & Color](https://github.com/npbarlow1/reading-notes/blob/main/Class%205:%20Introduction%20to%20CSS%20&%20Color.md) 
 
 ### Lets talk about Growth Mindset
 

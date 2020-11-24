@@ -1,6 +1,6 @@
-Introducing CSS & Color
+# Introducing CSS & Color
 
-Chapter 10: Introduction to CSS
+# Chapter 10: Introduction to CSS
 	- CSS allows you to create rules that specify how the content of an element should appear.
 	- For example, you can specify that the background of the page is cream, or paragraphs should appear in Gray using the aerial type face, or that all level one hitting should be in a blue, italic, times typeface.
 	- A CSS rule contains two parts: a selector and a declaration.
@@ -83,14 +83,14 @@ Chapter 10: Introduction to CSS
 		○ PositionIsEverything.net
 		○ QuirksMode.org
 
-Summary: 
+## Summary: 
 	- CSS treats every HTML element as if it appears inside its own box and uses rules to indicate how that element should look
 	- Rules are made up of selectors (that specify the element the rule applies to) and declarations (that indicate what these elements should look like)
 	- Different types of selectors allow you to target rules at different elements
 	- Declarations are made up of two parts: the properties of the element that you want to change, and the values of those properties. For example, the font-family property sets the choice of font, and the value arial specifies Arial as the preferred typeface.
 	- CSS rules usually appear in a separate document, although they may appear within a HTML page.
 
-Chapter 11: Color
+# Chapter 11: Color
 
 Foreground Color
 	- The color property allows you to specify the color of text inside an element. 

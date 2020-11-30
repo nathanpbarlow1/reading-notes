@@ -8,7 +8,7 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 - [Class 4: Process & Design, Structure, HTML5 layout and Extra Markup](https://github.com/npbarlow1/reading-notes/blob/main/Class%204:%20Process%20%26%20Design%2C%20Structure%2C%20HTML5%20layout%20and%20Extra%20Markup.md)
 - [Class 5: Introduction to CSS & Color](https://github.com/npbarlow1/reading-notes/blob/main/Class%205:%20Introduction%20to%20CSS%20&%20Color.md) 
 - [Class 6a: Javascript & JQUERY](https://github.com/npbarlow1/reading-notes/blob/main/Class%206a:%20Javascript%20%26%20jQuery.md) 
-- [Class 6b: 
+- [Class 6b: How Computers Work](https://github.com/npbarlow1/reading-notes/blob/main/Class%206b%20reading%20notes.md) 
 - [Class 7: Javascript & jQuery](https://github.com/npbarlow1/reading-notes/blob/main/Class%207:%20Javascript%20&%20jQuery.md) 
 
 ### Lets talk about Growth Mindset

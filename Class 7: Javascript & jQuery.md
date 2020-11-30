@@ -55,9 +55,9 @@ Start with the big picture of what you want to achieve, and break that down into
 	
 		
 
-##Functions: 88-94
+## Functions: 88-94
 
-** what is a function?**
+**what is a function?**
 
 Functions like your group as series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function rather than repeating the same set of statements.
 
@@ -65,7 +65,7 @@ If you were going to ask the function to performance task later, you need to giv
 
 When you write a function and you expected to provide you with an answer, the response is known as a **return value**
 
-** declaring a function**
+**declaring a function**
 
 To create a function, you give it a name and then write the statements needed to achieve its task inside the curly braces. This is known as a function declaration.
 

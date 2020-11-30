@@ -10,6 +10,7 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 - [Class 6a: Javascript & JQUERY](https://github.com/npbarlow1/reading-notes/blob/main/Class%206a:%20Javascript%20%26%20jQuery.md) 
 - [Class 6b: How Computers Work](https://github.com/npbarlow1/reading-notes/blob/main/Class%206b%20reading%20notes.md) 
 - [Class 7: Javascript & jQuery](https://github.com/npbarlow1/reading-notes/blob/main/Class%207:%20Javascript%20&%20jQuery.md) 
+- [Class 8: Comparison & Logical Operators](https://github.com/npbarlow1/reading-notes/blob/main/Class%208:%20Comparison%20%26%20Logical%20Operators.md)
 
 ### Lets talk about Growth Mindset
 

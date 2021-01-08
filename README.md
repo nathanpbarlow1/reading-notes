@@ -1,7 +1,24 @@
 # This is Nathan's page
 Hi! I'm Nathan, an aspiring software developer! #GoHawks
 
-## Table of Contents for reading
+## Table of Contents for Reading Notes - Code 201
+- [Daily Reading Assignment #1: Name TBD](URL TBD)
+- [Daily Reading Assignment #2: Name TBD](URL TBD)
+- [Daily Reading Assignment #3: Name TBD](URL TBD)
+- [Daily Reading Assignment #4: Name TBD](URL TBD)
+- [Daily Reading Assignment #5: Name TBD](URL TBD)
+- [Daily Reading Assignment #6: Name TBD](URL TBD)
+- [Daily Reading Assignment #7: Name TBD](URL TBD)
+- [Daily Reading Assignment #8: Name TBD](URL TBD)
+- [Daily Reading Assignment #9: Name TBD](URL TBD)
+- [Daily Reading Assignment #10: Name TBD](URL TBD)
+- [Daily Reading Assignment #11: Name TBD](URL TBD)
+- [Daily Reading Assignment #12: Name TBD](URL TBD)
+- [Daily Reading Assignment #13: Name TBD](URL TBD)
+- [Daily Reading Assignment #14: Name TBD](URL TBD)
+- [Daily Reading Assignment #15: Name TBD](URL TBD)
+
+## Table of Contents for Reading Notes - Code 102
 - [Class 1: Growth Mindset](https://growthmindset.org/).
 - [Class 2: Comparison of “basic” text editor vs coding-specific text editor vs IDE](https://github.com/npbarlow1/reading-notes/blob/main/ChoosingATextEditor.md)
 - [Class 3: Git Intro](https://github.com/npbarlow1/reading-notes/blob/main/GitIntro.md)

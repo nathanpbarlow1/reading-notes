@@ -4,9 +4,9 @@
 
 ## HTML Chapter 1: “Structure” (pp.12-39)
 
-- **elements** characters that live inside angled brackets. Example: <h1>, </p>, <html>
+- **elements** characters that live inside angled brackets. 
  
-- **tags** two tags (opening and closing) form an element. Example: <p>, </p>
+- **tags** two tags (opening and closing) form an element. 
 
 - **<html>** this opening tag indicates that anything between it and a closing tag is HTML code. 
 

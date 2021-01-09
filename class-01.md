@@ -116,3 +116,8 @@ Like a little window that has been cut into your page--and in that window you ca
 
 -**visual hierarchy** refers to the order in which your eyes perceive what they see. It is created by adding visual contrast between the items being displayed. Items with higher contrast are recognized and processed first. 
 
+## JS Chapter 1: "The ABC of Programming (pp.11-52)
+
+-**scripts** are a series of instructions that a computer can follow to achieve a goal. You could comapre a script to any of the following: receipes, handbooks, manuals. First you need to define the goal, then design the sript, then code each step. 
+
+-**what does a method do?** the code for a method can contain lots of instruxtions that together represent one task. When you use a method, you do not always need to know how  it achieves its task, you just need to know how to ask the question and how to interpret any answers it gives you. 

@@ -8,11 +8,13 @@
  
 - **tags** two tags (opening and closing) form an element. 
 
-- **<html>** this opening tag indicates that anything between it and a closing tag is HTML code. 
+- **html** this opening tag indicates that anything between it and a closing tag is HTML code. 
 
-- **<body>** tag indicates that anything between it and the closing tag should be shown inside the main browser window
-- **<head>** tag contains info about the page. You will usuaully find a <title> element inside the <head> element
-- **<title>** the contents of this element are either shown in the top of the browser, or on the tab for that page. 
+- **body** tag indicates that anything between it and the closing tag should be shown inside the main browser window
+
+- **head** tag contains info about the page. You will usuaully find a <title> element inside the <head> element
+	
+- **title** the contents of this element are either shown in the top of the browser, or on the tab for that page. 
   
  
   
@@ -20,17 +22,19 @@
 ## HTML Chapter 8: “Extra Markup” (p.176-199)
 
 - **comments** <!--insert comment here -->
+
 - **id attribute** every HTML Element can carry that idea attribute. 
     It is used to uniquely identify the element from other elements on the page. It's value should start with the letter or an underscore It is important that no two elements on the same page have the same value for their ID attributes. 
     Giving an element a unique identity allows you to style it differently from any other instance of the same element on the page. For example, you might want to assign one paragraph within the page a different style from all of the other paragraphs.
     The ID attribute is known as a global attribute because it can be used on any element.
+    
 -**class attribute** Sometimes, rather than uniquely identifying one element within a document, he will wanna way to identify several elements as being different from the other elements on the page. For example, you might have some paragraphs of tax that contain information that is more important than others and want to distinguish it between these elements, or you might want to differentiate between links that point to other pages on your own site and links that point to external sites.
 
 -**block elements** These are elements that appear on a new line in the browser window. Examples of Bloch elements are <h1>, <p>, <ul>, and <li>
   
 -**inline elements** Some elements will always appear to continue on the same line as their neighboring elements, these are known as inline elements.
   
--**<div>** this element allows you to group a set of elements together in one block level box. For example, you might create a <div> element to contain all of the elements for the header of your site, or you might create a <div> element to contain comments from visitors.
+-**div** this element allows you to group a set of elements together in one block level box. For example, you might create a <div> element to contain all of the elements for the header of your site, or you might create a <div> element to contain comments from visitors.
 
 -**span element** the <span> element Acts like an in-line equivalent of the <div> element. It is used to: 1) Container section of text where there is no suitable element to differentiate it from its surrounding text. 2) Container number of in-line elements. The Most common reason why people use <span> Elements is so that they can control the appearance of the contents of these elements using CSS. 
 
@@ -56,7 +60,7 @@ Like a little window that has been cut into your page--and in that window you ca
 	○ **Description** used by search engines to understand what the page is about, should be limited to 155 characters. 
 		○ <meta name="description"
 			□ Content="An Essay on Installation Art" />
-	○ Keywords: contains a list of comma-separated words that a user might search on to find the page, this no longer has any noticeable affect on how search e ngines index your site. 
+	○ Keywords: contains a list of comma-separated words that a user might search on to find the page, this no longer has any noticeable affect on how search engines index your site. 
 	○ Robots: indicates whether a search engine should add this page to their search results. 
 		○ "no index" = page should not be added.
 		○ "no follow" = should add but not any pages it’s linked to.

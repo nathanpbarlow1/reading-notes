@@ -97,7 +97,7 @@ Like a little window that has been cut into your page--and in that window you ca
   
 -**section** <section> element groups related content together, and typically each section would have its own heading.
 
--**hgroup** <hgroup> element is used to group together a set of one or more <h1> through <h6> elments. 
+-**hgroup** this element is used to group together a set of one or more <h1> through <h6> elments. 
   
 -**figure** <figure> It can be used to contain any contact that is referenced from the main flow of an article. The figure element should also contain a <figcaption> Element which provides a text description for the content of the figure element. In this example, you can see a figure has been added inside the article element. Page 439.
 

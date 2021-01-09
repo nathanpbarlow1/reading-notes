@@ -30,7 +30,7 @@
     
 -**class attribute** Sometimes, rather than uniquely identifying one element within a document, he will wanna way to identify several elements as being different from the other elements on the page. For example, you might have some paragraphs of tax that contain information that is more important than others and want to distinguish it between these elements, or you might want to differentiate between links that point to other pages on your own site and links that point to external sites.
 
--**block elements** These are elements that appear on a new line in the browser window. Examples of Bloch elements are <h1>, <p>, <ul>, and <li>
+-**block elements** These are elements that appear on a new line in the browser window.
   
 -**inline elements** Some elements will always appear to continue on the same line as their neighboring elements, these are known as inline elements.
   

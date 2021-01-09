@@ -90,6 +90,7 @@ Like a little window that has been cut into your page--and in that window you ca
 
 
 ## HTML Chapter 17: “HTML5 Layout” (pp.428-451)
+
 -**article** <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
   
 -**aside** <aside> element has two purposes, depending on whether it is inside an <article> element or not.When it's used inside an <article> element, it should contain info that is related to the article but not essential for its overall meaning. For example, a pullquote or glossary might be consider as an aside to the article it relates to. When it's used outside of an <article> element, it acts as a container for content that i srelated to the entire page. (436)

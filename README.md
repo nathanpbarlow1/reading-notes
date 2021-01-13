@@ -4,8 +4,8 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 
 ## Table of Contents for Reading Notes - Code 201
 
-- [Daily Reading Assignment #1: Class 01](https://github.com/npbarlow1/reading-notes/blob/main/class-01.md)
-- [Daily Reading Assignment #2: Name TBD](URL TBD)
+- [Reading Notes: Class 01](https://github.com/npbarlow1/reading-notes/blob/main/class-01.md)
+- [Reading Notes: Class 02](https://github.com/nathanpbarlow1/reading-notes/blob/main/class-02.md)
 - [Daily Reading Assignment #3: Name TBD](URL TBD)
 - [Daily Reading Assignment #4: Name TBD](URL TBD)
 - [Daily Reading Assignment #5: Name TBD](URL TBD)

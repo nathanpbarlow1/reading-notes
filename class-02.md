@@ -34,16 +34,19 @@
 
 `<cite>` When you were referencing a piece of work such as a book, film or research paper, this element can be used to indicate where the citation is from.
 
-'<dfn>` The first time you explain some new terminology, like an academic concept or some jargon in a document, it is known as the defining instance of it. This element is used to indicate the defining instance of a new term. Some browsers show the contents of this element in italics. Safari and chrome do not change its appearance.
+`<dfn>` The first time you explain some new terminology, like an academic concept or some jargon in a document, it is known as the defining instance of it. This element is used to indicate the defining instance of a new term. Some browsers show the contents of this element in italics. Safari and chrome do not change its appearance.
 
-'<address>` This element has quite a specific use: to contain contact details for the author of the page. (pp. 55)
+`<address>` This element has quite a specific use: to contain contact details for the author of the page. (pp. 55)
 
-`<ins>` and `<del>` This element can be used to show content that has been inserted into a document, while the '<del>` element Can show text that has been deleted from it.
+`<ins>` and `<del>` This element can be used to show content that has been inserted into a document, while the `<del>` element Can show text that has been deleted from it.
 
 `<s>` Indicate something that is no longer accurate or relevant, but that should not be deleted.
 
 ### Chapter 10: "Introducing CSS" (pp 226-245)
 
+**STATEMENTS** The script is a series of instructions that a computer can follow one by one. Each individual instruction or step is known as a **statement** (pp. 56) 
+
+**COMMENTS** Are used to explain what your code is. They help make your code easier to read and understand. This can help you and others who read your code. (pp. 57)
 
 ## CSS
 

@@ -44,12 +44,39 @@
 
 ### Chapter 10: "Introducing CSS" (pp 226-245)
 
-**STATEMENTS** The script is a series of instructions that a computer can follow one by one. Each individual instruction or step is known as a **statement** (pp. 56) 
 
-**COMMENTS** Are used to explain what your code is. They help make your code easier to read and understand. This can help you and others who read your code. (pp. 57)
+
+
+
+
+
+
+
 
 ## CSS
 
 ### Chapter 2: "Basic Javascript Instructions" (pp. 53-84)
+
+**STATEMENTS** The script is a series of instructions that a computer can follow one by one. Each individual instruction or step is known as a **statement** (pp. 56)
+
+**COMMENTS** Are used to explain what your code is. They help make your code easier to read and understand. This can help you and others who read your code. (pp. 57)
+
+**Data Types** Numeric, string, and Boolean (pp.62)
+
+**Rules for Naming Variables** (pp. 69)
+
+**Arrays** special type of variable. It doesn't just store one value; it stores a list of values. Each item in an array is automatically given a number called an index. Index values start at 0.
+
+`var colors;`
+`colors = ['white', 'black', 'custom'];`
+
+**Accessing Items in an array**
+To retrieve the third item on the list, the array name is specified along with the index number and square brackets.
+
+**Number of items in an array** Each array has a property called length, which holds the number of items in the array. 
+
+
+
+
 
 ### Chapter 4: "Decisions and Loops" (pp. 145-162, only up to the section on switch statements)

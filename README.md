@@ -6,19 +6,8 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 
 - [Reading Notes: Class 01](https://github.com/npbarlow1/reading-notes/blob/main/class-01.md)
 - [Reading Notes: Class 02](https://github.com/nathanpbarlow1/reading-notes/blob/main/class-02.md)
-- [Daily Reading Assignment #3: Name TBD](URL TBD)
-- [Daily Reading Assignment #4: Name TBD](URL TBD)
-- [Daily Reading Assignment #5: Name TBD](URL TBD)
-- [Daily Reading Assignment #6: Name TBD](URL TBD)
-- [Daily Reading Assignment #7: Name TBD](URL TBD)
-- [Daily Reading Assignment #8: Name TBD](URL TBD)
-- [Daily Reading Assignment #9: Name TBD](URL TBD)
-- [Daily Reading Assignment #10: Name TBD](URL TBD)
-- [Daily Reading Assignment #11: Name TBD](URL TBD)
-- [Daily Reading Assignment #12: Name TBD](URL TBD)
-- [Daily Reading Assignment #13: Name TBD](URL TBD)
-- [Daily Reading Assignment #14: Name TBD](URL TBD)
-- [Daily Reading Assignment #15: Name TBD](URL TBD)
+- [Reading Notes: Class 03](https://github.com/nathanpbarlow1/reading-notes/blob/main/class-03.md)
+- [Reading Notes: Class 04](https://github.com/nathanpbarlow1/reading-notes/blob/main/class-04.md)
 
 ## Table of Contents for Reading Notes - Code 102
 

@@ -33,7 +33,7 @@ hue, saturation, lightness - example: ``hsla(0, 100%, 100%, 0.5);}``
 **Example Color Code** (pp.257-260)
 
 ### Chapter 12: "Text" (pp.264-299)
-``font-family`` property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rules applies. Multiple founts can be added and separated by a comma, with the browser choosing whichever format the user has installed on their computer from left to right: ``font-family: Georgia, Times, serif;}
+``font-family`` property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rules applies. Multiple founts can be added and separated by a comma, with the browser choosing whichever format the user has installed on their computer from left to right: ``font-family: Georgia, Times, serif;}``
 ``font-size`` this property enabkles you to specify a size for the font. The most common ways to do this is by Pixels and Percedntages
 ``font-family`` The specifies the name of the font. This name can then be used as a value of the font – family property in the rest of the style sheet. (pp. 277)
 ``src`` The specifies the path to the font. In order for this technique to work in all browsers, you will probably need to specify paths to a different version of the font, as shown on the next page. (pp. 277)

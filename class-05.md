@@ -33,13 +33,34 @@ hue, saturation, lightness - example: ``hsla(0, 100%, 100%, 0.5);}``
 **Example Color Code** (pp.257-260)
 
 ### Chapter 12: "Text" (pp.264-299)
+
 ``font-family`` property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rules applies. Multiple founts can be added and separated by a comma, with the browser choosing whichever format the user has installed on their computer from left to right: ``font-family: Georgia, Times, serif;}``
+
 ``font-size`` this property enabkles you to specify a size for the font. The most common ways to do this is by Pixels and Percedntages
+
 ``font-family`` The specifies the name of the font. This name can then be used as a value of the font – family property in the rest of the style sheet. (pp. 277)
+
 ``src`` The specifies the path to the font. In order for this technique to work in all browsers, you will probably need to specify paths to a different version of the font, as shown on the next page. (pp. 277)
+
 ``format`` The specifies the format that the font is supplied in.
+
 ``font-weight`` This property allows you to create bold text. There are two values of this property commonly takes: ``normal`` this text causes the text to appear at a normal weight and ``bold`` this causes text to appear bold.  (pp.279)
-``font-style`` If you want to create italic tax, you can use this property, which takes three values: ``normal`` This causes text to appear in a normal style. ``italic`` This causes text to appear italic. ``Oblique`` This causes the text to appear oblique. (pp. 280)
+
+``font-style`` If you want to create italic tax, you can use this property, which takes three values: ``normal`` This causes text to appear in a normal style. ``italic`` This causes text to appear italic. 
+
+``Oblique`` This causes the text to appear oblique. (pp. 280)
+
+``text-transform`` used to change the case of text giving it one of the following values: ``uppercase`` this causes the textr to appear uppercase. ``lowercase`` this causes the text to appear lowercase ``capitalize`` this causes the first letter of each word to appear capitalized.
+
+``text-decoration`` this property allows you to specify the following values: ``none`` this removes any decoration already applied to the text. ``underline`` this adds a line underneath the text. ``overline`` this adds a line over the top of the text. ``line-through`` this adds a line through words. ``blink`` this animates the next to make it flash on and off. (pp. 282)
+
+``line-height`` (pp. 283)
+
+``text-align`` allows you to control the alignment of text. The property can take one of four values: `left`, ``right``, ``center`` and ``justify`` this indicates that every line in a paragraph, except the last line, should be set to take up the full width of the containing box.
+
+``vertical-align``
+
+Review (pp.286-299)
 
 **Choosing a typeface for your website** (pp.269)
 **Techniques that Offer a Wider Choice of Typefaces** (pp.271-272)
@@ -50,6 +71,3 @@ hue, saturation, lightness - example: ``hsla(0, 100%, 100%, 0.5);}``
 **Weight** Light, medium, bold, black
 **Style** Normal, Italic, Oblique
 **Stretch** Condensed, Regular, Extended
-
-
-

@@ -11,6 +11,9 @@ Hi! I'm Nathan, an aspiring software developer! #GoHawks
 - [Reading Notes: Class 05](https://github.com/nathanpbarlow1/reading-notes/blob/main/class-05.md)
 - [Reading Notes: Class 06](https://github.com/nathanpbarlow1/reading-notes/blob/main/class-06.md)
 - [Reading Notes: Class 07](https://github.com/nathanpbarlow1/reading-notes/blob/main/class-07.md)
+- [Reading Notes: Class 07](https://github.com/nathanpbarlow1/reading-notes/blob/main/class-07.md)
+- [Reading Notes: Class 08](https://github.com/nathanpbarlow1/reading-notes/blob/main/class-08.md)
+
 
 ## Table of Contents for Reading Notes - Code 102
 

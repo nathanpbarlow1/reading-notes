@@ -74,3 +74,5 @@
 3) **Code Responds to Users**
 
 **Different Event Types** (pp. 246)
+
+NEED TO TRANSFER OVER REMAINING CHAPTER 6 Notes to MD
